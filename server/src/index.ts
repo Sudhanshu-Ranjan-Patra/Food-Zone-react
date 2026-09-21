@@ -33,13 +33,6 @@ app.get("/", (req, res) => {
       image: "/images/burger.png",
       type: "lunch",
     },
-    {
-      name: "PANCAKE",
-      price: 60,
-      text: "Fluffy Indian-style pancakes served with honey or chocolate drizzle.",
-      image: "/images/pancake.png",
-      type: "dinner",
-    },
 
     {
       name: "VEG BIRYANI",
